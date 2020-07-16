@@ -1,0 +1,3 @@
+"command to delete in windows type nul > file" 
+The whole ide of Polymorphism is having some interface or parent class in order to execute methods of the class
+and at runtime supply differnt child class to override the parents class methods
